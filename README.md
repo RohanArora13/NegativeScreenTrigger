@@ -1,7 +1,7 @@
 # NegativeScreenTrigger
 simple script to hit "alt+win+N" when MT4 Terminal is Active
 
-if you guys like the scrip it will add more feature such as
+if you guys like the script I will add more feature in Future such as
 - start on startup 
 - UI 
 - also for metaQuotes Editor
